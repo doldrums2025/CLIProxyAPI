@@ -2377,6 +2377,36 @@
   ],
   "codex-free": [
     {
+      "id": "gpt-5.4-mini",
+      "object": "model",
+      "created": 1773705600,
+      "owned_by": "openai",
+      "type": "openai",
+      "display_name": "GPT 5.4 Mini",
+      "version": "gpt-5.4-mini",
+      "description": "GPT-5.4 mini brings the strengths of GPT-5.4 to a faster, more efficient model designed for high-volume workloads.",
+      "context_length": 400000,
+      "max_completion_tokens": 128000,
+      "supported_parameters": [
+        "tools"
+      ],
+      "thinking": {
+        "levels": [
+          "low",
+          "medium",
+          "high",
+          "xhigh"
+        ]
+      },
+      "supportedInputModalities": [
+        "text",
+        "image"
+      ],
+      "supportedOutputModalities": [
+        "text"
+      ]
+    },
+    {
       "id": "gpt-5.5",
       "object": "model",
       "created": 1776902400,
@@ -2518,6 +2548,36 @@
     }
   ],
   "codex-team": [
+    {
+      "id": "gpt-5.4-mini",
+      "object": "model",
+      "created": 1773705600,
+      "owned_by": "openai",
+      "type": "openai",
+      "display_name": "GPT 5.4 Mini",
+      "version": "gpt-5.4-mini",
+      "description": "GPT-5.4 mini brings the strengths of GPT-5.4 to a faster, more efficient model designed for high-volume workloads.",
+      "context_length": 400000,
+      "max_completion_tokens": 128000,
+      "supported_parameters": [
+        "tools"
+      ],
+      "thinking": {
+        "levels": [
+          "low",
+          "medium",
+          "high",
+          "xhigh"
+        ]
+      },
+      "supportedInputModalities": [
+        "text",
+        "image"
+      ],
+      "supportedOutputModalities": [
+        "text"
+      ]
+    },
     {
       "id": "gpt-5.5",
       "object": "model",
@@ -2728,6 +2788,36 @@
     }
   ],
   "codex-plus": [
+    {
+      "id": "gpt-5.4-mini",
+      "object": "model",
+      "created": 1773705600,
+      "owned_by": "openai",
+      "type": "openai",
+      "display_name": "GPT 5.4 Mini",
+      "version": "gpt-5.4-mini",
+      "description": "GPT-5.4 mini brings the strengths of GPT-5.4 to a faster, more efficient model designed for high-volume workloads.",
+      "context_length": 400000,
+      "max_completion_tokens": 128000,
+      "supported_parameters": [
+        "tools"
+      ],
+      "thinking": {
+        "levels": [
+          "low",
+          "medium",
+          "high",
+          "xhigh"
+        ]
+      },
+      "supportedInputModalities": [
+        "text",
+        "image"
+      ],
+      "supportedOutputModalities": [
+        "text"
+      ]
+    },
     {
       "id": "gpt-5.3-codex-spark",
       "object": "model",
@@ -2970,6 +3060,36 @@
     }
   ],
   "codex-pro": [
+    {
+      "id": "gpt-5.4-mini",
+      "object": "model",
+      "created": 1773705600,
+      "owned_by": "openai",
+      "type": "openai",
+      "display_name": "GPT 5.4 Mini",
+      "version": "gpt-5.4-mini",
+      "description": "GPT-5.4 mini brings the strengths of GPT-5.4 to a faster, more efficient model designed for high-volume workloads.",
+      "context_length": 400000,
+      "max_completion_tokens": 128000,
+      "supported_parameters": [
+        "tools"
+      ],
+      "thinking": {
+        "levels": [
+          "low",
+          "medium",
+          "high",
+          "xhigh"
+        ]
+      },
+      "supportedInputModalities": [
+        "text",
+        "image"
+      ],
+      "supportedOutputModalities": [
+        "text"
+      ]
+    },
     {
       "id": "gpt-5.3-codex-spark",
       "object": "model",
